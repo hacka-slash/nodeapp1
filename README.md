@@ -10,3 +10,8 @@ git commit -m "initial commit"
 git checkout -b "index.html_and_index.js"
     ^Creates a new branch
     !Never push to the master
+
+code index.html
+
+git add -A
+git commit -m "Created my files"
