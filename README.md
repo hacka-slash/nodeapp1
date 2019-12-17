@@ -15,3 +15,9 @@ code index.html
 
 git add -A
 git commit -m "Created my files"
+
+git checkout master
+    ^switch back to master branch
+
+git merge index.html_and_index.js
+    ^merge the following branch with our master
